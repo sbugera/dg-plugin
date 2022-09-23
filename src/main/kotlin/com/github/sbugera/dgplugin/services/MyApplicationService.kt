@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sbugera.dgplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sbugera.dgplugin.MyBundle
 
 class MyApplicationService {
 
